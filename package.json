@@ -1,0 +1,15 @@
+{
+  "name": "hustlencode",
+  "version": "1.0.0",
+  "description": "package for hackathon starter project",
+  "main": "HustleNCode.js",
+  "scripts": {
+    "test": "test hack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitHustleNCode"
+  },
+  "author": "pbull",
+  "license": "ISC"
+}
